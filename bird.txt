@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <title>wikipedia</title>
+        <link rel="stylesheet" href="body.css">
+    </head>
+    <body>
+        <h1>Birds</h1>
+        <img src="https://th.bing.com/th/id/R.a8b73b08a0354a706f00d3f24dee7378?rik=NWjjYn0emvfGOg&riu=http%3a%2f%2fhdqwalls.com%2fdownload%2f1%2fcolorful-parrot-bird.jpg&ehk=TueFyYK%2fTrLpzkimOSJEWLrgPGU%2fv%2bwcWxmK%2bdIZftk%3d&risl=&pid=ImgRaw&r=0"/>
+        <h4><p>Birds are a group of warm-blooded vertebrates constituting the class Aves (/ˈeɪviːz/), characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live worldwide and range in size from the 5.5 cm (2.2 in) bee hummingbird to the 2.8 m (9 ft 2 in) common ostrich. There are about ten thousand living species, more than half of which are passerine, or "perching" birds. Birds have wings whose development varies according to species; the only known groups without wings are the extinct moa and elephant birds. Wings, which are modified forelimbs, gave birds the ability to fly, although further evolution has led to the loss of flight in some birds, including ratites, penguins, and diverse endemic island species. The digestive and respiratory systems of birds are also uniquely adapted for flight. Some bird species of aquatic environments, particularly seabirds and some waterbirds, have further evolved for swimming. The study of birds is called ornithology.
+
+            Birds are feathered theropod dinosaurs and constitute the only known living dinosaurs. Likewise, birds are considered reptiles in the modern cladistic sense of the term, and their closest living relatives are the crocodilians. Birds are descendants of the primitive avialans (whose members include Archaeopteryx) which first appeared during the Late Jurassic. According to DNA evidence, modern birds (Neornithes) evolved in the Early to Late Cretaceous, and diversified dramatically around the time of the Cretaceous–Paleogene extinction event 66 mya, which killed off the pterosaurs and all non-avian dinosaurs.[5]
+            
+            Many social species pass on knowledge across generations, which is considered a form of culture. Birds are social, communicating with visual signals, calls, and songs, and participating in such behaviours as cooperative breeding and hunting, flocking, and mobbing of predators. The vast majority of bird species are socially (but not necessarily sexually) monogamous, usually for one breeding season at a time, sometimes for years, and rarely for life. Other species have breeding systems that are polygynous (one male with many females) or, rarely, polyandrous (one female with many males). Birds produce offspring by laying eggs which are fertilised through sexual reproduction. They are usually laid in a nest and incubated by the parents. Most birds have an extended period of parental care after hatching.
+            
+    Many species of birds are economically important as food for human consumption and raw material in manufacturing, with domesticated and undomesticated birds being important sources of eggs, meat, and feathers. Songbirds, parrots, and other species are popular as pets. Guano (bird excrement) is harvested for use as a fertiliser. Birds figure throughout human culture. About 120 to 130 species have become extinct due to human activity since the 17th century, and hundreds more before then. Human activity threatens about 1,200 bird species with extinction, though efforts are underway to protect them. Recreational birdwatching is an important part of the ecotourism industry.</p>
+    
+    <div>
+        <ul>
+            <li>Contents</li>
+           
+<li>1.Evolution and classification</li>
+<li>2.Distribution</li>
+<li>3.Anatomy and physiology</li>
+
+
+ </div>
+
+<h2>1.Evolution and classification</h2>
+Aves and a sister group, the order Crocodilia, contain the only living representatives of the reptile clade Archosauria. During the late 1990s, Aves was most commonly defined phylogenetically as all descendants of the most recent common ancestor of modern birds and Archaeopteryx lithographica.[10] However, an earlier definition proposed by Jacques Gauthier gained wide currency in the 21st century, and is used by many scientists including adherents to the PhyloCode. Gauthier defined Aves to include only the crown group of the set of modern birds. This was done by excluding most groups known only from fossils, and assigning them, instead, to the broader group Avialae,[11] in part to avoid the uncertainties about the placement of Archaeopteryx in relation to animals traditionally thought of as theropod dinosaurs.[citation needed]
+
+Gauthier and de Queiroz[12] identified four different definitions for the same biological name "Aves", which is a problem. The authors proposed to reserve the term Aves only for the crown group consisting of the last common ancestor of all living birds and all of its descendants, which corresponds to meaning number 4 below. He assigned other names to the other groups.[citation needed]
+
+
+ Reptiles	
+  Archosaurs  	
+  Crocodiles
+
+  Birds
+
+  Turtles
+
+  Squamates  	
+  Lizards and snakes
+
+The birds' phylogenetic relationships to major living reptile groups
+Aves can mean all archosaurs closer to birds than to crocodiles (alternately Avemetatarsalia)
+Aves can mean those advanced archosaurs with feathers (alternately Avifilopluma)
+Aves can mean those feathered dinosaurs that fly (alternately Avialae)
+Aves can mean the last common ancestor of all the currently living birds and all of its descendants (a "crown group", in this sense synonymous with Neornithes)
+<h2>2.Distribution</h2>
+Birds live and breed in most terrestrial habitats and on all seven continents, reaching their southern extreme in the snow petrel's breeding colonies up to 440 kilometres (270 mi) inland in Antarctica.[65] The highest bird diversity occurs in tropical regions. It was earlier thought that this high diversity was the result of higher speciation rates in the tropics; however studies from the 2000s found higher speciation rates in the high latitudes that were offset by greater extinction rates than in the tropics.[66] Many species migrate annually over great distances and across oceans; several families of birds have adapted to life both on the world's oceans and in them, and some seabird species come ashore only to breed,[67] while some penguins have been recorded diving up to 300 metres (980 ft) deep.[68]
+
+Many bird species have established breeding populations in areas to which they have been introduced by humans. Some of these introductions have been deliberate; the ring-necked pheasant, for example, has been introduced around the world as a game bird.[69] Others have been accidental, such as the establishment of wild monk parakeets in several North American cities after their escape from captivity.[70] Some species, including cattle egret,[71] yellow-headed caracara[72] and galah,[73] have spread naturally far beyond their original ranges as agricultural expansion created alternative habitats although modern practices of intensive agriculture have negatively impacted farmland bird populations.[74]
+
+<h2>3.Anatomy and physiology</h2>
+Skeletal system
+Main article: Bird_anatomy § Skeletal_system
+The skeleton consists of very lightweight bones. They have large air-filled cavities (called pneumatic cavities) which connect with the respiratory system.[75] The skull bones in adults are fused and do not show cranial sutures.[76] The orbital cavities that house the eyeballs are large and separated from each other by a bony septum (partition). The spine has cervical, thoracic, lumbar and caudal regions with the number of cervical (neck) vertebrae highly variable and especially flexible, but movement is reduced in the anterior thoracic vertebrae and absent in the later vertebrae.[77] The last few are fused with the pelvis to form the synsacrum.[76] The ribs are flattened and the sternum is keeled for the attachment of flight muscles except in the flightless bird orders. The forelimbs are modified into wings.[78] The wings are more or less developed depending on the species; the only known groups that lost their wings are the extinct moa and elephant birds.[79]
+
+Excretory system
+Like the reptiles, birds are primarily uricotelic, that is, their kidneys extract nitrogenous waste from their bloodstream and excrete it as uric acid, instead of urea or ammonia, through the ureters into the intestine. Birds do not have a urinary bladder or external urethral opening and (with exception of the ostrich) uric acid is excreted along with faeces as a semisolid waste.[80][81][82] However, birds such as hummingbirds can be facultatively ammonotelic, excreting most of the nitrogenous wastes as ammonia.[83] They also excrete creatine, rather than creatinine like mammals.[76] This material, as well as the output of the intestines, emerges from the bird's cloaca.[84][85] The cloaca is a multi-purpose opening: waste is expelled through it, most birds mate by joining cloaca, and females lay eggs from it. In addition, many species of birds regurgitate pellets.[86]
+
+It is a common but not universal feature of altricial passerine nestlings (born helpless, under constant parental care) that instead of excreting directly into the nest, they produce a fecal sac. This is a mucus-covered pouch that allows parents to either dispose of the waste outside the nest or to recycle the waste through their own digestive system.[87]
+
+Reproductive system
+Males within Palaeognathae (with the exception of the kiwis), the Anseriformes (with the exception of screamers), and in rudimentary forms in Galliformes (but fully developed in Cracidae) possess a penis, which is never present in Neoaves.[88][89] The length is thought to be related to sperm competition.[90] For male birds to get an erection, they depend on lymphatic fluid instead of blood.[91] When not copulating, it is hidden within the proctodeum compartment within the cloaca, just inside the vent. Female birds have sperm storage tubules[92] that allow sperm to remain viable long after copulation, a hundred days in some species.[93] Sperm from multiple males may compete through this mechanism. Most female birds have a single ovary and a single oviduct, both on the left side,[94] but there are exceptions: species in at least 16 different orders of birds have two ovaries. Even these species, however, tend to have a single oviduct.[94] It has been speculated that this might be an adaptation to flight, but males have two testes, and it is also observed that the gonads in both sexes decrease dramatically in size outside the breeding season.[95][96] Also terrestrial birds generally have a single ovary, as does the platypus, an egg-laying mammal. A more likely explanation is that the egg develops a shell while passing through the oviduct over a period of about a day, so that if two eggs were to develop at the same time, there would be a risk to survival.[94] While rare, mostly abortive, parthenogenesis is not unknown in birds and eggs can be diploid, automictic and results in male offspring.[97]
+
+Birds are solely gonochoric.[98] Meaning they have two sexes: either female or male. The sex of birds is determined by the Z and W sex chromosomes, rather than by the X and Y chromosomes present in mammals. Male birds have two Z chromosomes (ZZ), and female birds have a W chromosome and a Z chromosome (WZ).[76] A complex system of disassortative mating with two morphs is involved in the white-throated sparrow Zonotrichia albicollis, where white- and tan-browed morphs of opposite sex pair, making it appear as if four sexes were involved since any individual is compatible with only a fourth of the population.[99]
+
+In nearly all species of birds, an individual's sex is determined at fertilisation. However, one 2007 study claimed to demonstrate temperature-dependent sex determination among the Australian brushturkey, for which higher temperatures during incubation resulted in a higher female-to-male sex ratio.[100] This, however, was later proven to not be the case. These birds do not exhibit temperature-dependent sex determination, but temperature-dependent sex mortality.[101]
+
+Respiratory and circulatory systems
+Birds have one of the most complex respiratory systems of all animal groups.[76] Upon inhalation, 75% of the fresh air bypasses the lungs and flows directly into a posterior air sac which extends from the lungs and connects with air spaces in the bones and fills them with air. The other 25% of the air goes directly into the lungs. When the bird exhales, the used air flows out of the lungs and the stored fresh air from the posterior air sac is simultaneously forced into the lungs. Thus, a bird's lungs receive a constant supply of fresh air during both inhalation and exhalation.[102] Sound production is achieved using the syrinx, a muscular chamber incorporating multiple tympanic membranes which diverges from the lower end of the trachea;[103] the trachea being elongated in some species, increasing the volume of vocalisations and the perception of the bird's size.[104]
+
+In birds, the main arteries taking blood away from the heart originate from the right aortic arch (or pharyngeal arch), unlike in the mammals where the left aortic arch forms this part of the aorta.[76] The postcava receives blood from the limbs via the renal portal system. Unlike in mammals, the circulating red blood cells in birds retain their nucleus.[105]</h4>
+</body>
+
+</html>

@@ -1,0 +1,137 @@
+<html>
+  <head>
+     <title>Admission Form</title>
+     
+  </head>
+  <body bgcolor="yellow">
+     <center><h1>Admission Form</h1></center>
+     <div style="margin: 50px;padding: 10px; text-align: center;">
+     <form method="POST">
+       <fieldset>
+    
+         <legend>Personal Details</legend>
+         <table>
+            <tr>
+		<td>Name: </td>
+		<td><input type="text" name="t3" placeholder="name"/></td>
+
+            </tr>
+            <tr>
+		<td>Mother's Name</td>
+		<td><input type="text" name="t4" placeholder="Mother's name"/></td>
+	    </tr>
+            <tr>
+		<td>Father's Name</td>
+		<td><input type="text" name="t5" placeholder="Father's Name"/></td>
+	    </tr>
+            <tr>
+		<td>Date of Birth</td>
+		<td><input type="date" name="t6"/></td>
+	    </tr>
+            <tr>
+		<td>Gender</td>
+		<td>
+		    <input type="radio" name="r1" value="male">Male</input>
+		    <input type="radio" name="r1" vale="female">Female</input>
+                </td>
+	    </tr>
+         </table> 
+       </fieldset>
+        <fieldset>
+         <legend>Contact Details</legend>
+          <table>
+            <tr>
+		<td>Contact Number: </td>
+		<td><input type="tel" name="t7"/></td>
+            </tr>
+            <tr>
+		<td>Email ID: </td>
+		<td><input type="email" name="t8"/></td>
+            </tr>
+            <tr>
+		<td>Address</td>
+		<td><textarea rows="5" cols="30">Enter Address...</textarea></td>
+            </tr>
+            <tr>
+		<td>State: </td>
+		<td>
+                   <select name="State">
+			<option>Andra pradesh</option>
+			<option>karnataka</option>
+			<option>kerala</option>
+			<option>tamil nadu</option>
+                   </select>
+                </td>
+            </tr>
+          </table>
+
+       </fieldset> 
+       <fieldset>
+         <legend>Academic Details</legend>
+         <table>
+           <tr>
+             <td>10<sup>th</sup> Class Marks:</td>
+             <td><input type="number" name="t9"/></td>
+             <td>Board: </td>
+             <td><input type="text" name="t9_1"/></td>
+             <td>School Name: </td>
+             <td><input type="text" name="t9_2"/></td>
+           </tr>
+           <tr>
+           <tr>
+             <td>12<sup>th</sup> Class Marks:</td>
+             <td><input type="number" name="t10"/></td>
+             <td>Board: </td>
+             <td><input type="text" name="t10_1"/></td>
+             <td>School Name: </td>
+             <td><input type="text" name="t10_2"/></td>
+           </tr>
+           </tr>
+         </table>
+       </fieldset>  
+       <div style="margin-top: 20px; padding: 10px;text-align: center;">
+           <Button onclick="alert('Form Submitted');">Submit</button>
+            <Button onclick="alert('Form reset');">Reset</button>
+       </div>  
+     </form>
+     </div>
+  <!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+</html>
